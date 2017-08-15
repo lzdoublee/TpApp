@@ -3,7 +3,7 @@ package Domain;
 /**
  * Created by L.z Double E on 8/7/2017.
  */
-public class Venue {
+public class Venue implements Serializable{
 
     private String venueId;
     private String location;
