@@ -10,7 +10,7 @@ public class Fixture {
     private String date;
     private String fkTournamentId;
 
-    public String getStaffNo() {
+    public String getFixtureId() {
         return fixtureId;
     }
 
