@@ -18,7 +18,7 @@ public class Group {
         return teamName;
     }
 
-    public String getFkGroupId() {
+    public String getFkTeamId() {
         return fkTeamId;
     }
 
