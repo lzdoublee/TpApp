@@ -3,7 +3,7 @@ package Domain;
 /**
  * Created by L.z Double E on 8/7/2017.
  */
-public class Staff {
+public class Staff implements Serializable{
 
     private String staffNo;
     private String firstname;
