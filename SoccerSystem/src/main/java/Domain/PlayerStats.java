@@ -3,7 +3,7 @@ package Domain;
 /**
  * Created by L.z Double E on 8/7/2017.
  */
-public class PlayerStats {
+public class PlayerStats implements Serializable{
 
     private String id;
     private int goalsScored;
