@@ -4,8 +4,7 @@ package Domain;
 /**
  * Created by L.z Double E on 8/7/2017.
  */
-public class Team
-{
+public class Team implements Serializable{
     private String teamId;
     private String name;
     private String manager;
