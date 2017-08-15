@@ -3,7 +3,7 @@ package Domain;
 /**
  * Created by L.z Double E on 8/7/2017.
  */
-public class Sponsor {
+public class Sponsor implements Serializable{
 
     private String sponsorId;
     private String name;
