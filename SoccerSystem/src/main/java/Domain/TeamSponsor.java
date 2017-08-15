@@ -3,7 +3,7 @@ package Domain;
 /**
  * Created by L.z Double E on 8/7/2017.
  */
-public class TeamSponsor {
+public class TeamSponsor implements Serializable{
 
     private String location;
     private String fkSponsorId;
