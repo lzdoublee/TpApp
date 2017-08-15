@@ -3,7 +3,7 @@ package Domain;
 /**
  * Created by L.z Double E on 8/7/2017.
  */
-public class Group {
+public class Group implements Serializable{
 
     private String groupId;
     private String teamName;
