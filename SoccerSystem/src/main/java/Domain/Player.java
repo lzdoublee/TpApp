@@ -3,7 +3,7 @@ package Domain;
 /**
  * Created by L.z Double E on 8/7/2017.
  */
-public class Player {
+public class Player implements Serializable{
 
     private String playerId;
     private String nickname;
