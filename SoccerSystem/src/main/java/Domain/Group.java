@@ -10,7 +10,7 @@ public class Group {
     private String fkTeamId;
 
 
-    public String getStaffNo() {
+    public String getGroupId() {
         return groupId;
     }
 

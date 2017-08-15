@@ -30,7 +30,6 @@ public class Fixture {
 
     public Fixture(Builder builder)
     {
-
         this.fixtureId = builder.fixtureId;
         this.stage = builder.stage;
         this.date = builder.date;
@@ -43,7 +42,6 @@ public class Fixture {
         private String stage;
         private String date;
         private String fkTournamentId;
-
 
         public Builder fixtureId(String value)
         {
